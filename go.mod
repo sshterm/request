@@ -1,4 +1,4 @@
-module github.com/mostvel/request
+module github.com/sshterm/request
 
 go 1.17
 
